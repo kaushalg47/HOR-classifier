@@ -10,4 +10,7 @@ Three components were used in this procedure to bring in the results, which are:
 ## working
 The logic uses image hash, RGB values of the object and matches it with the YOLO detected window. the hash and RGB values of the window is then compared to the object values and a cosine similarity is dervied. on the top 3 similarity images, Optical character recogintion is performed for an extra layer of confirmation. Voila! we get the matched object.
 
+## Author
+Kaushal G / @kaushalg47
+
 
